@@ -1,0 +1,15 @@
+body {
+    width: 350px;
+    height: 350px;
+    background-color: #31802d;
+}
+
+.concert {
+    display: flex;
+    flex-direction: column;
+}
+
+.concert_card img {
+    width: 50px;
+    height: 50px;
+}
